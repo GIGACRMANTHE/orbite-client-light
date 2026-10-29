@@ -17,3 +17,5 @@ Pas de chat communautaire ni de gros modèles 3D de décor dans cette édition. 
 Voir [les crédits des ressources](CREDITS-ressources.md).
 
 Version 1.1.0 : menu ORBITE, panneaux translucides, couleurs selon le fond, chargement animé et classement aux trois premières places distinctes. Les commandes restent celles du jeu. F8 rétablit la présentation native. Le rendu en partie reste à vérifier sur le navigateur utilisé.
+
+Version 1.2.0 : console de menu latérale, suppression des liens sociaux/musique et entraînement, chargement compact, jauges continues, radar translucide conservant ses contacts, rochers minéraux, gravures dorées et énergie cosmique au contact de la coque. Tous les changements restent locaux et réversibles avec F8. Aucun bonus de bouclier : l'effet est décoratif.
