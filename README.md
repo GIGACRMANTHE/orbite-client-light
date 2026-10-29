@@ -15,3 +15,5 @@ Bouton **ORBITE** en bas à droite. **F8** active ou désactive les modification
 Pas de chat communautaire ni de gros modèles 3D de décor dans cette édition. Les tests de démarrage autonome et d'intégrité des images sont passés ; la fluidité en partie dépend de la machine.
 
 Voir [les crédits des ressources](CREDITS-ressources.md).
+
+Version 1.1.0 : menu ORBITE, panneaux translucides, couleurs selon le fond, chargement animé et classement aux trois premières places distinctes. Les commandes restent celles du jeu. F8 rétablit la présentation native. Le rendu en partie reste à vérifier sur le navigateur utilisé.
