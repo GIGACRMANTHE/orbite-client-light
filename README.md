@@ -19,3 +19,5 @@ Voir [les crédits des ressources](CREDITS-ressources.md).
 Version 1.1.0 : menu ORBITE, panneaux translucides, couleurs selon le fond, chargement animé et classement aux trois premières places distinctes. Les commandes restent celles du jeu. F8 rétablit la présentation native. Le rendu en partie reste à vérifier sur le navigateur utilisé.
 
 Version 1.2.0 : console de menu latérale, suppression des liens sociaux/musique et entraînement, chargement compact, jauges continues, radar translucide conservant ses contacts, rochers minéraux, gravures dorées et énergie cosmique au contact de la coque. Tous les changements restent locaux et réversibles avec F8. Aucun bonus de bouclier : l'effet est décoratif.
+
+Version 1.3.0 : menu et chargement recentrés, HUD compact translucide, nom de partie au-dessus du radar masqué, coques brillantes. Chat : cinq emotes par phrase ; F9 ajoute une emote vide via le chat natif (validation serveur à confirmer en partie).
