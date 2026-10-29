@@ -21,3 +21,5 @@ Version 1.1.0 : menu ORBITE, panneaux translucides, couleurs selon le fond, char
 Version 1.2.0 : console de menu latérale, suppression des liens sociaux/musique et entraînement, chargement compact, jauges continues, radar translucide conservant ses contacts, rochers minéraux, gravures dorées et énergie cosmique au contact de la coque. Tous les changements restent locaux et réversibles avec F8. Aucun bonus de bouclier : l'effet est décoratif.
 
 Version 1.3.0 : menu et chargement recentrés, HUD compact translucide, nom de partie au-dessus du radar masqué, coques brillantes. Chat : cinq emotes par phrase ; F9 ajoute une emote vide via le chat natif (validation serveur à confirmer en partie).
+
+Version 1.4.0 : menu, chargement et écrans de mort harmonisés sans panneau opaque imbriqué. HUD et radar simplifiés, reflets nacrés animés sur les coques. La touche E remplace F9 pour l'emote vide, hors saisie de texte. Les tests locaux passent ; le rendu et la réception des emotes restent à confirmer en partie.
