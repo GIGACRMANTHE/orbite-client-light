@@ -32,3 +32,5 @@ Version 1.8.0 : skins et bases séparés. Les flèches officielles sélectionnen
 Toutes les bases deviennent brillantes avec un skin ORBITE, y compris les matériaux natifs sans reflets. Conversion locale en matériau réfléchissant, restaurée avec F8 ; graphite verni et céramique émaillée remplacent les finitions mates.
 
 Version 1.9.0 : rochers à veines minérales, réacteurs à dégradé, cinq tirs supplémentaires (Lance stellaire, Orbe nova, Cristal nacré, Double ion, Comète ambrée), éclats d’impact, RCS compact et nom du système masqué. Effets appliqués aux matériaux natifs, sans modifier les trajectoires ni les dégâts. Tests locaux uniquement ; rendu réel en partie à confirmer.
+
+Version 1.10.0 : huit textures originales brillantes ; flèches officielles parcourant aussi les skins ORBITE. Détection des rochers existants par leur géométrie native, réacteur avec cœur chaud et cellules de pression, impacts sans anneaux. Tests locaux réussis ; rendu en partie à confirmer.
