@@ -30,3 +30,5 @@ Version 1.7.0 : collection de matières seules. Suppression des effets de coque 
 
 Version 1.8.0 : skins et bases séparés. Les flèches officielles sélectionnent la base native sans retirer le skin. Choisir le skin dans ORBITE, puis changer la base dans la personnalisation officielle. Les réglages de brillance sont relatifs au matériau de base. Aperçu et partie utilisent le même choix natif. Tests locaux réussis ; rendu en partie à confirmer.
 Toutes les bases deviennent brillantes avec un skin ORBITE, y compris les matériaux natifs sans reflets. Conversion locale en matériau réfléchissant, restaurée avec F8 ; graphite verni et céramique émaillée remplacent les finitions mates.
+
+Version 1.9.0 : rochers à veines minérales, réacteurs à dégradé, cinq tirs supplémentaires (Lance stellaire, Orbe nova, Cristal nacré, Double ion, Comète ambrée), éclats d’impact, RCS compact et nom du système masqué. Effets appliqués aux matériaux natifs, sans modifier les trajectoires ni les dégâts. Tests locaux uniquement ; rendu réel en partie à confirmer.
