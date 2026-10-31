@@ -34,3 +34,5 @@ Toutes les bases deviennent brillantes avec un skin ORBITE, y compris les matér
 Version 1.9.0 : rochers à veines minérales, réacteurs à dégradé, cinq tirs supplémentaires (Lance stellaire, Orbe nova, Cristal nacré, Double ion, Comète ambrée), éclats d’impact, RCS compact et nom du système masqué. Effets appliqués aux matériaux natifs, sans modifier les trajectoires ni les dégâts. Tests locaux uniquement ; rendu réel en partie à confirmer.
 
 Version 1.10.0 : huit textures originales brillantes ; flèches officielles parcourant aussi les skins ORBITE. Détection des rochers existants par leur géométrie native, réacteur avec cœur chaud et cellules de pression, impacts sans anneaux. Tests locaux réussis ; rendu en partie à confirmer.
+
+Version 1.11.0 : icônes de chat vectorielles colorées (écusson, éclair, couronne, étoile, robot, cristal, ailes et insigne). Remplacement local des dessins dans le sélecteur et les bulles, libellés et messages natifs conservés. Les joueurs sans ORBITE voient les émotes originales.
