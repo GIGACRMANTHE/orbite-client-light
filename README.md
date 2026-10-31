@@ -38,3 +38,5 @@ Version 1.10.0 : huit textures originales brillantes ; flèches officielles parc
 Version 1.11.0 : icônes de chat vectorielles colorées (écusson, éclair, couronne, étoile, robot, cristal, ailes et insigne). Remplacement local des dessins dans le sélecteur et les bulles, libellés et messages natifs conservés. Les joueurs sans ORBITE voient les émotes originales.
 
 Version 1.11.1 : correction du scanner d’émotes qui pouvait appeler des accesseurs natifs et interrompre le démarrage du rendu. Isolation des erreurs d’émotes ; suppression du tutoriel gris au chargement.
+
+Version 1.12.0 : radar biseauté cyan-violet inspiré des émotes, contacts natifs conservés. Lasers plus fins et moins lumineux. Suppression du plafond de 96 rochers qui pouvait être occupé par le décor du menu ; habillage de surface sans aura additionnelle. Validation visuelle en partie encore nécessaire.
