@@ -36,3 +36,5 @@ Version 1.9.0 : rochers à veines minérales, réacteurs à dégradé, cinq tirs
 Version 1.10.0 : huit textures originales brillantes ; flèches officielles parcourant aussi les skins ORBITE. Détection des rochers existants par leur géométrie native, réacteur avec cœur chaud et cellules de pression, impacts sans anneaux. Tests locaux réussis ; rendu en partie à confirmer.
 
 Version 1.11.0 : icônes de chat vectorielles colorées (écusson, éclair, couronne, étoile, robot, cristal, ailes et insigne). Remplacement local des dessins dans le sélecteur et les bulles, libellés et messages natifs conservés. Les joueurs sans ORBITE voient les émotes originales.
+
+Version 1.11.1 : correction du scanner d’émotes qui pouvait appeler des accesseurs natifs et interrompre le démarrage du rendu. Isolation des erreurs d’émotes ; suppression du tutoriel gris au chargement.
