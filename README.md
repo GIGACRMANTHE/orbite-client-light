@@ -56,3 +56,5 @@ Version 1.15.1 : les dix skins à base indépendante utilisent une texture de co
 Version 1.15.2 : distribution compactée, commentaires explicatifs retirés et identifiants internes raccourcis. Aucun déchiffrement à l’exécution. Métadonnées Tampermonkey et crédits conservés. Le code exécuté dans le navigateur reste récupérable.
 
 Version 1.15.3 : correction du risque de coque blanchie sur les bases indépendantes : conservation du masque lumineux natif, retrait de l’amplification d’émission et réduction des reflets. Textures personnalisées conservées. Tests locaux réussis ; rendu en partie à confirmer.
+
+Version 1.16.0 : quatre coques complètes Séraphin, Ronin, Abysse et Vector, motifs précalculés sans particules supplémentaires. Panneau compact avec précédent/suivant pour coque, tirs et ECP, sélection clavier conservée. Géométrie du vaisseau inchangée. Tests locaux ; rendu en partie à confirmer.
