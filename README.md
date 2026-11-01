@@ -52,3 +52,5 @@ Version 1.14.1 : rafraîchissement des panneaux RCS et missiles déjà en mémoi
 Version 1.15.0 : dix bases optiques propres aux skins (nacre, stellaire, opale, volcanique, obsidienne, mercure, opaline, nébuleuse, onyx et cristal). Les autres finitions conservent une part du motif officiel. Matières précalculées, couleurs d’équipe et géométrie préservées. Tests locaux ; rendu en partie à confirmer.
 
 Version 1.15.1 : les dix skins à base indépendante utilisent une texture de coque recréée sur toute sa surface, sans masque hérité du matériau officiel. Les cartes de relief et de reflets natives sont retirées pour ces skins puis restaurées à la désactivation. Les deux cases de couleurs d’équipe restent natives. Tests locaux ; rendu en partie à confirmer.
+
+Version 1.15.2 : distribution compactée, commentaires explicatifs retirés et identifiants internes raccourcis. Aucun déchiffrement à l’exécution. Métadonnées Tampermonkey et crédits conservés. Le code exécuté dans le navigateur reste récupérable.
