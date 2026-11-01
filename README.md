@@ -48,3 +48,5 @@ Version 1.14.0 : thèmes Émeraude, Nacre, Clair de lune et Braise. Surfaces com
 
 
 Version 1.14.1 : rafraîchissement des panneaux RCS et missiles déjà en mémoire, dessin dédié du RCS et surfaces des missiles. Le matériau de coque sélectionné est aussi appliqué au matériau ECP avant son symbole natif, silhouette conservée. Tests ciblés réussis ; rendu réel en partie à confirmer.
+
+Version 1.15.0 : dix bases optiques propres aux skins (nacre, stellaire, opale, volcanique, obsidienne, mercure, opaline, nébuleuse, onyx et cristal). Les autres finitions conservent une part du motif officiel. Matières précalculées, couleurs d’équipe et géométrie préservées. Tests locaux ; rendu en partie à confirmer.
