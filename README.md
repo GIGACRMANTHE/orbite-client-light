@@ -41,4 +41,4 @@ Version 1.11.1 : correction du scanner d’émotes qui pouvait appeler des acces
 
 Version 1.12.0 : radar biseauté cyan-violet inspiré des émotes, contacts natifs conservés. Lasers plus fins et moins lumineux. Suppression du plafond de 96 rochers qui pouvait être occupé par le décor du menu ; habillage de surface sans aura additionnelle. Validation visuelle en partie encore nécessaire.
 
-Version 1.13.0 : palettes SEI, HAKU, TSUKI et AKANE ; panneaux encre et nacre, radar gradué. Branchement direct sur le groupe de rochers du terrain, y compris les objets créés avant le client. Tests locaux ; rendu en partie à confirmer.
+Version 1.14.0 : palettes SEI, HAKU, TSUKI et AKANE ; panneaux encre et nacre, radar gradué. Branchement direct sur le groupe de rochers du terrain, y compris les objets créés avant le client. Tests locaux ; rendu en partie à confirmer.
