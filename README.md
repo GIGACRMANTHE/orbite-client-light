@@ -60,3 +60,5 @@ Version 1.15.3 : correction du risque de coque blanchie sur les bases indépenda
 Version 1.16.0 : quatre coques complètes Séraphin, Ronin, Abysse et Vector, motifs précalculés sans particules supplémentaires. Panneau compact avec précédent/suivant pour coque, tirs et ECP, sélection clavier conservée. Géométrie du vaisseau inchangée. Tests locaux ; rendu en partie à confirmer.
 
 Version 1.16.1 : les coques indépendantes remplacent également la teinte native sombre Carbon et la transparence Diamond. Correction commune à l’aperçu et aux vaisseaux en partie. Restauration des matériaux à la désactivation.
+
+Version 1.16.2 : remplacement indépendant de la base officielle pour toutes les coques ORBITE, avec finition brillante sur toute la collection. Choix Original inchangé. Tests locaux ; rendu en partie à confirmer.
