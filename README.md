@@ -46,3 +46,5 @@ Version 1.13.0 : palettes encre et nacre ; panneaux encre et nacre, radar gradu�
 
 Version 1.14.0 : thèmes Émeraude, Nacre, Clair de lune et Braise. Surfaces communes pour les panneaux natifs, classement avec ornements de plumes gravées pour les trois premiers, radar gradué, menus harmonisés. Suppression du redimensionnement des panneaux pour conserver les coordonnées cliquables. Tests locaux réussis ; rendu en partie non vérifié.
 
+
+Version 1.14.1 : rafraîchissement des panneaux RCS et missiles déjà en mémoire, dessin dédié du RCS et surfaces des missiles. Le matériau de coque sélectionné est aussi appliqué au matériau ECP avant son symbole natif, silhouette conservée. Tests ciblés réussis ; rendu réel en partie à confirmer.
